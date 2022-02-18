@@ -1,0 +1,7 @@
+# all of these are created by the IDE
+# only source code is provided
+*/bin/
+*/obj/
+*/*.cbp
+*/*.depend
+*/*.layout
