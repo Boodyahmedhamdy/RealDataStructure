@@ -5,13 +5,13 @@ in this folder all the code is going to be in **C++**
 ## Initial Plan
 
 - [ ] Leaner
-  - [ ] Stack
+  - [ ] <img src="https://cdn-icons.flaticon.com/png/512/3171/premium/3171906.png?token=exp=1645277375~hmac=159114fb1c46d6f8ec846aacb49eff00" width="12"> Stack
     - [ ] Linked
     - [ ] Array Based
-  - [ ] Queue
+  - [ ] <img src="https://cdn-icons-png.flaticon.com/128/6009/6009580.png" width="12"> Queue
     - [ ] Linked
     - [ ] Array Based
-  - [ ] Linked List
+  - [ ] <img src="https://cdn0.iconfinder.com/data/icons/agile-basic-2-semi-gray/468/Layer60-128.png" width="12"> Linked List
     - [ ] Single Linked List
     - [ ] Doubly Linked List
     - [ ] Sorted Linked List
