@@ -2,6 +2,8 @@
 # only source code is provided
 */bin/
 */obj/
-*/*.cbp
-*/*.depend
-*/*.layout
+**/*.cbp
+**/*.depend
+**/*.layout
+**/*.o 
+**/*.exe
