@@ -5,9 +5,9 @@ in this folder all the code is going to be in **C++**
 ## Initial Plan
 
 - [ ] Leaner
-  - [ ] <img src="https://cdn-icons.flaticon.com/png/512/3171/premium/3171906.png?token=exp=1645277375~hmac=159114fb1c46d6f8ec846aacb49eff00" width="12"> Stack
-    - [ ] Linked
-    - [ ] Array Based
+  - [x] <img src="https://cdn-icons.flaticon.com/png/512/3171/premium/3171906.png?token=exp=1645277375~hmac=159114fb1c46d6f8ec846aacb49eff00" width="12"> Stack
+    - [x] Linked
+    - [x] Array Based
   - [ ] <img src="https://cdn-icons-png.flaticon.com/128/6009/6009580.png" width="12"> Queue
     - [ ] Linked
     - [ ] Array Based
