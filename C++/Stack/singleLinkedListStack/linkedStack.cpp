@@ -32,7 +32,7 @@ void LinkedStack::push(int value)
 {
     // create a new node to hold the value and connect later
     // hold the value entered by the user
-    // let't the new node next points to the current top (when stack is empty the top is null)
+    // lat't the new node next points to the current top (when stack is empty the top is null)
     // update the top to make it the new node that holds the value
     // update length of the stack by increasing it by 1
 
